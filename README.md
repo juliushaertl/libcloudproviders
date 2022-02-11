@@ -1,3 +1,7 @@
+# Repository has been archived
+
+Ongoing development of libcloudproviders is happening on the GNOME repository at https://gitlab.gnome.org/World/libcloudproviders
+
 # cloudproviders integration API
 
 libcloudproviders is a DBus API that allows cloud storage sync clients to expose
